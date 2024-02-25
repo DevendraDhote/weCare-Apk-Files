@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+drawable node_modules_reactnavigation_elements_src_assets_backicon
+drawable node_modules_reactnavigation_elements_src_assets_backiconmask
+drawable rn_edit_text_material
+drawable screen
+drawable src_assets_calendar
+drawable src_assets_doctor
+drawable src_assets_gifs_file
+drawable src_assets_gifs_mappin
+drawable src_assets_gifs_upload
+drawable src_assets_img1
+drawable src_assets_logo
+drawable src_assets_message
+drawable src_assets_question
+drawable src_assets_reminder
+drawable src_assets_vitamins
+integer react_native_dev_server_port
+integer react_native_inspector_proxy_port
+layout launch_screen
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+mipmap ic_launcher_monochrome
+mipmap ic_launcher_round
+string app_name
+style AppTheme

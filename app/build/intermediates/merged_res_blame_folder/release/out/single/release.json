@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_doctor.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_doctor.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xxhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-xxhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xxxhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_calendar.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_calendar.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-xhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/layout_launch_screen.xml.flat",
+        "source": "com.healthcarefront.app-main-35:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_question.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_question.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-ldpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-ldpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-ldpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_logo.jpg.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_logo.jpg"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_gifs_mappin.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_gifs_mappin.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_gifs_file.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_gifs_file.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-hdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_img1.jpg.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_img1.jpg"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-xxhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-mdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-mdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_vitamins.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_vitamins.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_message.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_message.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-land-xhdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-hdpi_screen.png.flat",
+        "source": "com.healthcarefront.app-main-35:/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.healthcarefront.app-main-35:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_gifs_upload.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_gifs_upload.png"
+    },
+    {
+        "merged": "com.healthcarefront.app-merged_res-34:/drawable-mdpi_src_assets_reminder.png.flat",
+        "source": "com.healthcarefront.app-res-29:/drawable-mdpi/src_assets_reminder.png"
+    }
+]
